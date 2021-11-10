@@ -1,4 +1,4 @@
-import CartWidget from "./components/CartWidget/CartWidget";
+
 import { Clicker } from "./components/Clicker/Clicker";
 import ItemListContainer from "./components/ItemListContainer/ItemListContainer";
 import NavBar from "./components/NavBar/NavBar";
