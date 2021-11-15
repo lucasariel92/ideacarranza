@@ -4,18 +4,23 @@ import './ItemCount.scss'
 
 
 
-const ItemCount = () => {
-    const[quant, setQuant] = useState(0)
+const ItemCount = ({initial, maxStock}) => {
+    const[quant, setQuant] = useState(initial)
+    console.log(maxStock)
+    
+    
 
 
     const decreaseQuant = () =>{
         const newQuant = quant-1
-        newQuant >= 0 ? setQuant(newQuant) : setQuant(0)
+        newQuant >= 0 ? setQuant(newQuant) : setQuant(initial)
+        console.log(initial)
+        
     }
     const addQuant = () =>{
         const newQuant = quant+1
-        const availableStock = 20
-        newQuant <= availableStock ? setQuant(newQuant) : setQuant(availableStock)
+        
+        newQuant <= maxStock ? setQuant(newQuant) : setQuant(maxStock)
     }
 
     return(
