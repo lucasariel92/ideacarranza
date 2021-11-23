@@ -3,14 +3,14 @@
 import { useEffect, useState } from "react";
 import { ItemList } from "../ItemList/ItemList";
 import { askData } from "./helpers/askData";
-import ItemCount from "./ItemCount";
 
 
 
 
 
 
-const ItemListContainer = () =>{
+
+export const ItemListContainer = () =>{
     const [loading, setLoading] = useState(false)
     const [products, setProducts] = useState([])
     
@@ -32,18 +32,18 @@ const ItemListContainer = () =>{
     
 
     return(
-        <>
-        <ItemCount initial={0} maxStock={20}/>
+        <section>
+        
         
         
         {
             loading 
             ? <h2>Cargando...</h2>
-            : <ItemList products={products}/>
+            : <ItemList className="itemList" products={products}/>
         }
             
         
-        </>
+        </section>
         
     )
 
@@ -52,4 +52,3 @@ const ItemListContainer = () =>{
 
 
 
-export default ItemListContainer;

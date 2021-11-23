@@ -4,6 +4,7 @@ import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
 import './NavBar.scss'
 import CartWidget from '../CartWidget/CartWidget'
+import { Link } from 'react-router-dom';
 
 
 export default function NavBar() {
@@ -12,9 +13,9 @@ export default function NavBar() {
       <AppBar position="static">
         <Toolbar className="toolBar">
          <ul>
-             <li>HOME</li>
-             <li>JARDIN</li>
-             <li>OBRA</li>
+             <li><Link to ="/">HOME</Link></li>
+             <li><Link to ="/detail">JARDIN</Link></li>
+             <li><Link to ="/cart">OBRA</Link></li>
              <li>ASP</li>
              <li>NOSOTROS</li>
          </ul>

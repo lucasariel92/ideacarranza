@@ -1,0 +1,17 @@
+.card{
+    display:flex;
+    flex-flow: column;
+    width: 350px;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 500px;
+    
+}
+.item{
+    display: flex;
+    justify-content: center;
+}
+.cardText{
+    width: 300px;
+}
