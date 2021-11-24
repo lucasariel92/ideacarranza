@@ -8,7 +8,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.1606,
     "PADRON": "SADEPAN BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.82X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -24,7 +24,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.1606,
     "PADRON": "SADEPAN BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.82X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -40,7 +40,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.1606,
     "PADRON": "SADEPAN BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.82X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -56,7 +56,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -72,7 +72,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -88,7 +88,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -104,7 +104,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -120,7 +120,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -136,7 +136,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -152,7 +152,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -168,7 +168,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -184,7 +184,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -200,7 +200,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -216,7 +216,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -232,7 +232,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE MDF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -248,7 +248,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE MDF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -264,7 +264,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE MDF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -280,7 +280,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE MDF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -296,7 +296,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE MDF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -312,7 +312,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE MDF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -328,7 +328,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FAPLAC BASE MDF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -344,7 +344,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "EGGER BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.60X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -360,7 +360,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "EGGER BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.60X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -376,7 +376,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "EGGER BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.60X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -392,7 +392,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "EGGER BASE AGLOMERADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.60X1.83",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -411,7 +411,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO MELAMINICO PREENCOLADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -430,7 +430,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO MELAMINICO PREENCOLADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -449,7 +449,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO MELAMINICO PREENCOLADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -468,7 +468,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO MELAMINICO PREENCOLADO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -487,7 +487,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO PVC",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -506,7 +506,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO PVC",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -525,7 +525,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO PVC",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -544,7 +544,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO PVC",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -560,7 +560,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO PVC",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -576,7 +576,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO PVC",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -592,7 +592,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO PVC",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -608,7 +608,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "FILO PVC",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -624,7 +624,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "MDF TRUPAN",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -640,7 +640,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "MDF TRUPAN",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -656,7 +656,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "MDF TRUPAN",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -672,7 +672,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "MDF TRUPAN",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -688,7 +688,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "MDF TRUPAN",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -704,7 +704,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "MDF TRUPAN",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -720,7 +720,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "MDF TRUPAN",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -736,7 +736,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "FONDO FIBROPLUS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -752,7 +752,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "FONDO FIBROPLUS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -768,7 +768,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "FONDO FIBROPLUS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -784,7 +784,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 5.032500000000001,
     "PADRON": "FONDO FIBROPLUS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -800,7 +800,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "FONDO FIBROPLUS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -816,7 +816,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 4.758,
     "PADRON": "FONDO FIBROPLUS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -835,7 +835,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 6.5,
     "PADRON": "MADERA SECA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -854,7 +854,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 8.666666666666666,
     "PADRON": "MADERA SECA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -873,7 +873,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 8.666666666666666,
     "PADRON": "MADERA SECA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -892,7 +892,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 13,
     "PADRON": "MADERA SECA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -908,7 +908,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.05,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -924,7 +924,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.35,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -940,7 +940,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.66,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -956,7 +956,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.96,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -972,7 +972,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.05,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -988,7 +988,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.35,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1004,7 +1004,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.66,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1020,7 +1020,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.96,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1036,7 +1036,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.05,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1052,7 +1052,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.35,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1068,7 +1068,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.66,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1084,7 +1084,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.96,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1100,7 +1100,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1116,7 +1116,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34036,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1132,7 +1132,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.371856,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1148,7 +1148,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.40233599999999997,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1164,7 +1164,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.38734999999999997,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1180,7 +1180,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.42545,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1196,7 +1196,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.46482,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1212,7 +1212,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.50292,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1228,7 +1228,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.4648199999999999,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1244,7 +1244,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.51054,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1260,7 +1260,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.557784,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1276,7 +1276,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.6035039999999999,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1292,7 +1292,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.05,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1308,7 +1308,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.35,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1324,7 +1324,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.66,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1340,7 +1340,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.96,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1356,7 +1356,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.38734999999999997,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1372,7 +1372,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.42545,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1388,7 +1388,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.46482,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1404,7 +1404,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.50292,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1420,7 +1420,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 2.75,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1436,7 +1436,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.05,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1452,7 +1452,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.35,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1468,7 +1468,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.66,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1484,7 +1484,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.96,
     "PADRON": "MADERA VERDE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1500,7 +1500,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 2.5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1516,7 +1516,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1532,7 +1532,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1548,7 +1548,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 4,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1564,7 +1564,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 4.5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1580,7 +1580,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1596,7 +1596,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 6,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1612,7 +1612,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 2.5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1628,7 +1628,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1644,7 +1644,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1660,7 +1660,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 4,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1676,7 +1676,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 4.5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1692,7 +1692,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1708,7 +1708,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 5.5,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1724,7 +1724,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 6,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1740,7 +1740,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 7,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1756,7 +1756,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 8,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1772,7 +1772,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 9,
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1788,7 +1788,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 2.5,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1804,7 +1804,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1820,7 +1820,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.5,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1836,7 +1836,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 4,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1852,7 +1852,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 4.5,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1868,7 +1868,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 5,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1884,7 +1884,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 2.5,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1900,7 +1900,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1916,7 +1916,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3.5,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1932,7 +1932,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 4,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1948,7 +1948,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 4.5,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1964,7 +1964,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 5,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1980,7 +1980,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 6,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -1996,7 +1996,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 7,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2012,7 +2012,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 3,
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2028,7 +2028,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.18592799999999998,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2044,7 +2044,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.20954999999999996,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2060,7 +2060,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.23240999999999995,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2076,7 +2076,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.25527,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2092,7 +2092,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.278892,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2108,7 +2108,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30175199999999996,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2124,7 +2124,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.18592799999999998,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2140,7 +2140,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.20954999999999996,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2156,7 +2156,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.23240999999999995,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2172,7 +2172,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.25527,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2188,7 +2188,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.278892,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2204,7 +2204,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30175199999999996,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2220,7 +2220,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.216408,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2236,7 +2236,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.24790399999999999,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2252,7 +2252,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.2794,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2268,7 +2268,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2284,7 +2284,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34036,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2300,7 +2300,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.371856,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2316,7 +2316,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.40233599999999997,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2332,7 +2332,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.24790399999999999,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2348,7 +2348,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.2794,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2364,7 +2364,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2380,7 +2380,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34036,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2396,7 +2396,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.371856,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2412,7 +2412,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.40233599999999997,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2428,7 +2428,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2444,7 +2444,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34925,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2460,7 +2460,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.38734999999999997,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2476,7 +2476,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.42712500000000003,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2492,7 +2492,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.46665,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2508,7 +2508,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.5049,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2524,7 +2524,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2540,7 +2540,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34925,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2556,7 +2556,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.38734999999999997,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2572,7 +2572,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.42712500000000003,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2588,7 +2588,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.46665,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2604,7 +2604,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.5049,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2620,7 +2620,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.5049,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2636,7 +2636,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2652,7 +2652,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34925,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2668,7 +2668,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.38734999999999997,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2684,7 +2684,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.42712500000000003,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2700,7 +2700,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.46665,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2716,7 +2716,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.5049,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2732,7 +2732,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2748,7 +2748,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34925,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2764,7 +2764,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.38734999999999997,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2780,7 +2780,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.42712500000000003,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2796,7 +2796,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.46665,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2812,7 +2812,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.5049,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2828,7 +2828,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.37185599999999996,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2844,7 +2844,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.4190999999999999,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2860,7 +2860,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.4648199999999999,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2876,7 +2876,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.51456,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2892,7 +2892,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.5621760000000001,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2908,7 +2908,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.608256,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2924,7 +2924,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.37185599999999996,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2940,7 +2940,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.4190999999999999,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2956,7 +2956,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.4648199999999999,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2972,7 +2972,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.51456,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -2988,7 +2988,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.5621760000000001,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3004,7 +3004,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.608256,
     "PADRON": "MACHIMBRE",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3020,7 +3020,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.18592799999999998,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3036,7 +3036,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.20954999999999996,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3052,7 +3052,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.23240999999999995,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3068,7 +3068,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.25426499999999996,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3084,7 +3084,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.277794,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3100,7 +3100,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.300564,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3116,7 +3116,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.18592799999999998,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3132,7 +3132,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.20954999999999996,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3148,7 +3148,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.23240999999999995,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3164,7 +3164,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.25426499999999996,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3180,7 +3180,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.277794,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3196,7 +3196,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.300564,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3212,7 +3212,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.24790399999999999,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3228,7 +3228,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.2794,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3244,7 +3244,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3260,7 +3260,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34036,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3276,7 +3276,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.371856,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3292,7 +3292,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.40233599999999997,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3308,7 +3308,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.24790399999999999,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3324,7 +3324,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.2794,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3340,7 +3340,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.30988,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3356,7 +3356,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.34036,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3372,7 +3372,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.371856,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3388,7 +3388,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 0.40233599999999997,
     "PADRON": "DECK",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3409,7 +3409,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "OSB",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3430,7 +3430,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "OSB",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3446,7 +3446,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3462,7 +3462,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3478,7 +3478,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3494,7 +3494,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3510,7 +3510,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3526,7 +3526,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3542,7 +3542,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3558,7 +3558,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3574,7 +3574,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3590,7 +3590,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3606,7 +3606,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3622,7 +3622,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3638,7 +3638,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3654,7 +3654,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.9768,
     "PADRON": "FENOLICOS PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3670,7 +3670,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.3600000000000003,
     "PADRON": "TERCIADOS PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3686,7 +3686,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.3600000000000003,
     "PADRON": "TERCIADOS PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3702,7 +3702,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.66,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3718,7 +3718,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.8999999999999999,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3734,7 +3734,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.8999999999999999,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3750,7 +3750,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.8999999999999999,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3769,7 +3769,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 3.66,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3788,7 +3788,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 3.5999999999999996,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3807,7 +3807,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 3.66,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3826,7 +3826,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 3.5999999999999996,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3845,7 +3845,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 3.66,
     "PADRON": "TABLERO ALISTONADO EUCA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3864,7 +3864,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.9000000000000004,
     "PADRON": "TABLERO ALISTONADO PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3884,7 +3884,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 2.7735,
     "PADRON": "TABLERO ALISTONADO PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3903,7 +3903,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.9000000000000004,
     "PADRON": "TABLERO ALISTONADO PINO",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3919,7 +3919,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.36,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3935,7 +3935,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.75,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3951,7 +3951,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 3.5999999999999996,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3967,7 +3967,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.36,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3983,7 +3983,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.63,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -3999,7 +3999,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.8999999999999999,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4015,7 +4015,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 3.5999999999999996,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4031,7 +4031,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.21,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4047,7 +4047,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.24,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4063,7 +4063,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.27,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4079,7 +4079,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "UN",
     "DIMENSION_POR_UNIDAD": 0.3,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4095,7 +4095,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 12,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4111,7 +4111,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 12,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4127,7 +4127,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 12,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4143,7 +4143,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 12,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4159,7 +4159,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 12,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4175,7 +4175,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "ML",
     "DIMENSION_POR_UNIDAD": 12,
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4196,7 +4196,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.81,
     "PADRON": "KNAUF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4217,7 +4217,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.93,
     "PADRON": "KNAUF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4238,7 +4238,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.93,
     "PADRON": "KNAUF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4257,7 +4257,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.93,
     "PADRON": "KNAUF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4276,7 +4276,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "M2",
     "DIMENSION_POR_UNIDAD": 3.93,
     "PADRON": "KNAUF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4292,7 +4292,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "KNAUF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4308,7 +4308,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "KNAUF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4324,7 +4324,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "KNAUF",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4340,7 +4340,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4356,7 +4356,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4372,7 +4372,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4388,7 +4388,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4404,7 +4404,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4420,7 +4420,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4436,7 +4436,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4452,7 +4452,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4468,7 +4468,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4484,7 +4484,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4500,7 +4500,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4516,7 +4516,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4532,7 +4532,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4548,7 +4548,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4564,7 +4564,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4580,7 +4580,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4596,7 +4596,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4612,7 +4612,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4628,7 +4628,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4644,7 +4644,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4660,7 +4660,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4676,7 +4676,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4692,7 +4692,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4708,7 +4708,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4724,7 +4724,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4740,7 +4740,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4756,7 +4756,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4772,7 +4772,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4788,7 +4788,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4804,7 +4804,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4820,7 +4820,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4836,7 +4836,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4852,7 +4852,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4868,7 +4868,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4884,7 +4884,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4900,7 +4900,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4916,7 +4916,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4932,7 +4932,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4948,7 +4948,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4964,7 +4964,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4980,7 +4980,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -4996,7 +4996,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5012,7 +5012,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5028,7 +5028,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5044,7 +5044,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5060,7 +5060,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5076,7 +5076,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5092,7 +5092,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5108,7 +5108,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5124,7 +5124,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5140,7 +5140,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5156,7 +5156,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5172,7 +5172,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5188,7 +5188,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5204,7 +5204,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5220,7 +5220,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "-",
     "DIMENSION_POR_UNIDAD": "-",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5239,7 +5239,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": "MT",
     "DIMENSION_POR_UNIDAD": 2.6,
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5255,7 +5255,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5271,7 +5271,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5287,7 +5287,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "HERRAJES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5303,7 +5303,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5319,7 +5319,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5335,7 +5335,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5351,7 +5351,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5367,7 +5367,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5383,7 +5383,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5399,7 +5399,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5415,7 +5415,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5431,7 +5431,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5447,7 +5447,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5463,7 +5463,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5479,7 +5479,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5495,7 +5495,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5511,7 +5511,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5527,7 +5527,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5543,7 +5543,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5559,7 +5559,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5575,7 +5575,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5591,7 +5591,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5607,7 +5607,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5623,7 +5623,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5639,7 +5639,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5655,7 +5655,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5671,7 +5671,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5687,7 +5687,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5703,7 +5703,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5719,7 +5719,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PINTURAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5735,7 +5735,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5751,7 +5751,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5767,7 +5767,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5783,7 +5783,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5799,7 +5799,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5815,7 +5815,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5831,7 +5831,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5847,7 +5847,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5863,7 +5863,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5879,7 +5879,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5895,7 +5895,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5911,7 +5911,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5927,7 +5927,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5943,7 +5943,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5959,7 +5959,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5975,7 +5975,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -5991,7 +5991,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6007,7 +6007,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6023,7 +6023,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6039,7 +6039,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6055,7 +6055,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6071,7 +6071,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6087,7 +6087,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6103,7 +6103,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6119,7 +6119,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6135,7 +6135,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6151,7 +6151,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6167,7 +6167,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6183,7 +6183,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6199,7 +6199,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6215,7 +6215,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6231,7 +6231,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6247,7 +6247,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6263,7 +6263,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6279,7 +6279,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6295,7 +6295,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "ADHESIVOS/COLAS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6314,7 +6314,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6335,7 +6335,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6356,7 +6356,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6377,7 +6377,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6398,7 +6398,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6419,7 +6419,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6439,7 +6439,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6459,7 +6459,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6478,7 +6478,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6494,7 +6494,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6510,7 +6510,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6526,7 +6526,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6542,7 +6542,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6558,7 +6558,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6574,7 +6574,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6590,7 +6590,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6606,7 +6606,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6622,7 +6622,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6638,7 +6638,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "FERRETERIA",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6654,7 +6654,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6670,7 +6670,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6686,7 +6686,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6702,7 +6702,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6718,7 +6718,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6734,7 +6734,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6750,7 +6750,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6766,7 +6766,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6782,7 +6782,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6798,7 +6798,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6814,7 +6814,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6830,7 +6830,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6846,7 +6846,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6862,7 +6862,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6878,7 +6878,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6894,7 +6894,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6910,7 +6910,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6926,7 +6926,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6942,7 +6942,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6958,7 +6958,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6974,7 +6974,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -6990,7 +6990,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7006,7 +7006,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "PRODUCTOS EXCLUSIVOS",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7022,7 +7022,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7038,7 +7038,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7054,7 +7054,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7070,7 +7070,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7086,7 +7086,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7102,7 +7102,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7118,7 +7118,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7134,7 +7134,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7150,7 +7150,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7166,7 +7166,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7182,7 +7182,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7198,7 +7198,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7214,7 +7214,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7230,7 +7230,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7246,7 +7246,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7262,7 +7262,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7278,7 +7278,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7294,7 +7294,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7310,7 +7310,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7326,7 +7326,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7342,7 +7342,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7358,7 +7358,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {
@@ -7374,7 +7374,7 @@ export const Stock = [
     "UNIDAD_DE_MEDIDA 2": ".",
     "DIMENSION_POR_UNIDAD": ".",
     "PADRON": "AISLANTES",
-    "IMAGEN": "https://placeholder.com/300",
+    "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
     "FECHA": "2021-11-22T03:00:00.000Z",
     "QR": {

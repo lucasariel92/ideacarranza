@@ -19,7 +19,7 @@ export default function NavBar() {
              <li>ASP</li>
              <li>NOSOTROS</li>
          </ul>
-         <CartWidget/>
+         <Link to="cart"><CartWidget/></Link>
         </Toolbar>
       </AppBar>
     </Box>
