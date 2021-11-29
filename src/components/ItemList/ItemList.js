@@ -8,10 +8,7 @@ import { Item } from "../Item/Item";
 export const ItemList = ({products}) => {
     return(
         <Grid container sx={{width:"100%"}}>
-        {products.map( (products) => <Item products={products}/>)}
+        {products.map( (products) => <Item products={products} key={products.COD}/>)}
         </Grid>
-
-
-
     )
 }

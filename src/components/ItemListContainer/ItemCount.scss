@@ -1,0 +1,9 @@
+.itemCount{
+    display: flex;
+    flex-flow: column nowrap;
+}
+.itemCount__quant{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}

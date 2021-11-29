@@ -2,10 +2,11 @@ import NavBar from "./components/NavBar/NavBar";
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import {ItemListContainer} from './components/ItemListContainer/ItemListContainer'
 import {ItemDetailContainer} from "./components/ItemDetailContainer/ItemDetailContainer"
-import {CartView} from "./CartView/CartView"
 import { ThemeProvider } from "@mui/system";
 import { createTheme } from "@mui/material";
 import { red } from "@mui/material/colors";
+import { CartView } from "./components/CartView/CartView";
+
 
 
 
@@ -16,6 +17,7 @@ function App() {
       primary: red
     }
   })
+  
   return (
    
     

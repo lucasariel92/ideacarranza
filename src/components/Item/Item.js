@@ -13,7 +13,7 @@ export const Item = ({products}) => {
                     <p>{products.ITEM}</p>
                     <p>${products.PRECIO} x {products.UNIDAD_DE_MEDIDA}</p>
                     <Link to={`/detail/${products.COD}`}>
-                      <Button variant="contained"> Agregar </Button>
+                      <Button variant="contained"> Detalle </Button>
                     </Link>
                     
                   </div>

@@ -10,7 +10,7 @@ export const Stock = [
     "PADRON": "SADEPAN BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.82X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -26,7 +26,7 @@ export const Stock = [
     "PADRON": "SADEPAN BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.82X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -42,7 +42,7 @@ export const Stock = [
     "PADRON": "SADEPAN BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.82X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -58,7 +58,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -74,7 +74,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -90,7 +90,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -106,7 +106,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -122,7 +122,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -138,7 +138,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -154,7 +154,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -170,7 +170,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -186,7 +186,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -202,7 +202,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -218,7 +218,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -234,7 +234,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE MDF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -250,7 +250,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE MDF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -266,7 +266,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE MDF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -282,7 +282,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE MDF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -298,7 +298,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE MDF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -314,7 +314,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE MDF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -330,7 +330,7 @@ export const Stock = [
     "PADRON": "FAPLAC BASE MDF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.75X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -346,7 +346,7 @@ export const Stock = [
     "PADRON": "EGGER BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.60X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -362,7 +362,7 @@ export const Stock = [
     "PADRON": "EGGER BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.60X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -378,7 +378,7 @@ export const Stock = [
     "PADRON": "EGGER BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.60X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -394,7 +394,7 @@ export const Stock = [
     "PADRON": "EGGER BASE AGLOMERADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": "2.60X1.83",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -413,7 +413,7 @@ export const Stock = [
     "PADRON": "FILO MELAMINICO PREENCOLADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -432,7 +432,7 @@ export const Stock = [
     "PADRON": "FILO MELAMINICO PREENCOLADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -451,7 +451,7 @@ export const Stock = [
     "PADRON": "FILO MELAMINICO PREENCOLADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -470,7 +470,7 @@ export const Stock = [
     "PADRON": "FILO MELAMINICO PREENCOLADO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -489,7 +489,7 @@ export const Stock = [
     "PADRON": "FILO PVC",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -508,7 +508,7 @@ export const Stock = [
     "PADRON": "FILO PVC",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -527,7 +527,7 @@ export const Stock = [
     "PADRON": "FILO PVC",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -546,7 +546,7 @@ export const Stock = [
     "PADRON": "FILO PVC",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -562,7 +562,7 @@ export const Stock = [
     "PADRON": "FILO PVC",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -578,7 +578,7 @@ export const Stock = [
     "PADRON": "FILO PVC",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -594,7 +594,7 @@ export const Stock = [
     "PADRON": "FILO PVC",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -610,7 +610,7 @@ export const Stock = [
     "PADRON": "FILO PVC",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -626,7 +626,7 @@ export const Stock = [
     "PADRON": "MDF TRUPAN",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -642,7 +642,7 @@ export const Stock = [
     "PADRON": "MDF TRUPAN",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -658,7 +658,7 @@ export const Stock = [
     "PADRON": "MDF TRUPAN",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -674,7 +674,7 @@ export const Stock = [
     "PADRON": "MDF TRUPAN",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -690,7 +690,7 @@ export const Stock = [
     "PADRON": "MDF TRUPAN",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -706,7 +706,7 @@ export const Stock = [
     "PADRON": "MDF TRUPAN",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -722,7 +722,7 @@ export const Stock = [
     "PADRON": "MDF TRUPAN",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -738,7 +738,7 @@ export const Stock = [
     "PADRON": "FONDO FIBROPLUS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -754,7 +754,7 @@ export const Stock = [
     "PADRON": "FONDO FIBROPLUS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -770,7 +770,7 @@ export const Stock = [
     "PADRON": "FONDO FIBROPLUS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -786,7 +786,7 @@ export const Stock = [
     "PADRON": "FONDO FIBROPLUS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -802,7 +802,7 @@ export const Stock = [
     "PADRON": "FONDO FIBROPLUS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -818,7 +818,7 @@ export const Stock = [
     "PADRON": "FONDO FIBROPLUS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -837,7 +837,7 @@ export const Stock = [
     "PADRON": "MADERA SECA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -856,7 +856,7 @@ export const Stock = [
     "PADRON": "MADERA SECA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -875,7 +875,7 @@ export const Stock = [
     "PADRON": "MADERA SECA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -894,7 +894,7 @@ export const Stock = [
     "PADRON": "MADERA SECA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -910,7 +910,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -926,7 +926,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -942,7 +942,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -958,7 +958,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -974,7 +974,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -990,7 +990,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1006,7 +1006,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1022,7 +1022,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1038,7 +1038,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1054,7 +1054,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1070,7 +1070,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1086,7 +1086,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1102,7 +1102,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1118,7 +1118,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1134,7 +1134,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1150,7 +1150,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1166,7 +1166,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1182,7 +1182,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1198,7 +1198,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1214,7 +1214,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1230,7 +1230,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1246,7 +1246,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1262,7 +1262,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1278,7 +1278,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1294,7 +1294,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1310,7 +1310,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1326,7 +1326,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1342,7 +1342,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1358,7 +1358,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1374,7 +1374,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1390,7 +1390,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1406,7 +1406,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1422,7 +1422,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1438,7 +1438,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1454,7 +1454,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1470,7 +1470,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1486,7 +1486,7 @@ export const Stock = [
     "PADRON": "MADERA VERDE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1502,7 +1502,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1518,7 +1518,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1534,7 +1534,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1550,7 +1550,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1566,7 +1566,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1582,7 +1582,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1598,7 +1598,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1614,7 +1614,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1630,7 +1630,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1646,7 +1646,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1662,7 +1662,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1678,7 +1678,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1694,7 +1694,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1710,7 +1710,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1726,7 +1726,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1742,7 +1742,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1758,7 +1758,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1774,7 +1774,7 @@ export const Stock = [
     "PADRON": "TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1790,7 +1790,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1806,7 +1806,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1822,7 +1822,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1838,7 +1838,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1854,7 +1854,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1870,7 +1870,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1886,7 +1886,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1902,7 +1902,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1918,7 +1918,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1934,7 +1934,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1950,7 +1950,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1966,7 +1966,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1982,7 +1982,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -1998,7 +1998,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2014,7 +2014,7 @@ export const Stock = [
     "PADRON": "IMPREGNADOS TIJERA / ROLLIZO / PERGOLA / TUTOR / POSTE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2030,7 +2030,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2046,7 +2046,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2062,7 +2062,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2078,7 +2078,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2094,7 +2094,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2110,7 +2110,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2126,7 +2126,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2142,7 +2142,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2158,7 +2158,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2174,7 +2174,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2190,7 +2190,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2206,7 +2206,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2222,7 +2222,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2238,7 +2238,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2254,7 +2254,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2270,7 +2270,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2286,7 +2286,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2302,7 +2302,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2318,7 +2318,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2334,7 +2334,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2350,7 +2350,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2366,7 +2366,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2382,7 +2382,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2398,7 +2398,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2414,7 +2414,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2430,7 +2430,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2446,7 +2446,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2462,7 +2462,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2478,7 +2478,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2494,7 +2494,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2510,7 +2510,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2526,7 +2526,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2542,7 +2542,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2558,7 +2558,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2574,7 +2574,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2590,7 +2590,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2606,7 +2606,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2622,7 +2622,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2638,7 +2638,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2654,7 +2654,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2670,7 +2670,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2686,7 +2686,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2702,7 +2702,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2718,7 +2718,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2734,7 +2734,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2750,7 +2750,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2766,7 +2766,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2782,7 +2782,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2798,7 +2798,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2814,7 +2814,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2830,7 +2830,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2846,7 +2846,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2862,7 +2862,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2878,7 +2878,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2894,7 +2894,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2910,7 +2910,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2926,7 +2926,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2942,7 +2942,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2958,7 +2958,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2974,7 +2974,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -2990,7 +2990,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3006,7 +3006,7 @@ export const Stock = [
     "PADRON": "MACHIMBRE",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3022,7 +3022,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3038,7 +3038,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3054,7 +3054,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3070,7 +3070,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3086,7 +3086,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3102,7 +3102,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3118,7 +3118,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3134,7 +3134,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3150,7 +3150,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3166,7 +3166,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3182,7 +3182,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3198,7 +3198,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3214,7 +3214,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3230,7 +3230,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3246,7 +3246,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3262,7 +3262,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3278,7 +3278,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3294,7 +3294,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3310,7 +3310,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3326,7 +3326,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3342,7 +3342,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3358,7 +3358,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3374,7 +3374,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3390,7 +3390,7 @@ export const Stock = [
     "PADRON": "DECK",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3411,7 +3411,7 @@ export const Stock = [
     "PADRON": "OSB",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3432,7 +3432,7 @@ export const Stock = [
     "PADRON": "OSB",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3448,7 +3448,7 @@ export const Stock = [
     "PADRON": "FENOLICOS EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3464,7 +3464,7 @@ export const Stock = [
     "PADRON": "FENOLICOS EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3480,7 +3480,7 @@ export const Stock = [
     "PADRON": "FENOLICOS EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3496,7 +3496,7 @@ export const Stock = [
     "PADRON": "FENOLICOS EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3512,7 +3512,7 @@ export const Stock = [
     "PADRON": "FENOLICOS EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3528,7 +3528,7 @@ export const Stock = [
     "PADRON": "FENOLICOS EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3544,7 +3544,7 @@ export const Stock = [
     "PADRON": "FENOLICOS EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3560,7 +3560,7 @@ export const Stock = [
     "PADRON": "FENOLICOS EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3576,7 +3576,7 @@ export const Stock = [
     "PADRON": "FENOLICOS PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3592,7 +3592,7 @@ export const Stock = [
     "PADRON": "FENOLICOS PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3608,7 +3608,7 @@ export const Stock = [
     "PADRON": "FENOLICOS PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3624,7 +3624,7 @@ export const Stock = [
     "PADRON": "FENOLICOS PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3640,7 +3640,7 @@ export const Stock = [
     "PADRON": "FENOLICOS PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3656,7 +3656,7 @@ export const Stock = [
     "PADRON": "FENOLICOS PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3672,7 +3672,7 @@ export const Stock = [
     "PADRON": "TERCIADOS PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3688,7 +3688,7 @@ export const Stock = [
     "PADRON": "TERCIADOS PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3704,7 +3704,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3720,7 +3720,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3736,7 +3736,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3752,7 +3752,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3771,7 +3771,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3790,7 +3790,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3809,7 +3809,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3828,7 +3828,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3847,7 +3847,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO EUCA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3866,7 +3866,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3886,7 +3886,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3905,7 +3905,7 @@ export const Stock = [
     "PADRON": "TABLERO ALISTONADO PINO",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3921,7 +3921,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3937,7 +3937,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3953,7 +3953,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3969,7 +3969,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -3985,7 +3985,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4001,7 +4001,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4017,7 +4017,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4033,7 +4033,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4049,7 +4049,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4065,7 +4065,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4081,7 +4081,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4097,7 +4097,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4113,7 +4113,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4129,7 +4129,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4145,7 +4145,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4161,7 +4161,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4177,7 +4177,7 @@ export const Stock = [
     "PADRON": "FINGER JOINT TABLERO / ESCALON / VIGA MULTILAMINADA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4198,7 +4198,7 @@ export const Stock = [
     "PADRON": "KNAUF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4219,7 +4219,7 @@ export const Stock = [
     "PADRON": "KNAUF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4240,7 +4240,7 @@ export const Stock = [
     "PADRON": "KNAUF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4259,7 +4259,7 @@ export const Stock = [
     "PADRON": "KNAUF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4278,7 +4278,7 @@ export const Stock = [
     "PADRON": "KNAUF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4294,7 +4294,7 @@ export const Stock = [
     "PADRON": "KNAUF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4310,7 +4310,7 @@ export const Stock = [
     "PADRON": "KNAUF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4326,7 +4326,7 @@ export const Stock = [
     "PADRON": "KNAUF",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4342,7 +4342,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4358,7 +4358,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4374,7 +4374,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4390,7 +4390,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4406,7 +4406,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4422,7 +4422,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4438,7 +4438,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4454,7 +4454,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4470,7 +4470,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4486,7 +4486,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4502,7 +4502,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4518,7 +4518,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4534,7 +4534,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4550,7 +4550,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4566,7 +4566,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4582,7 +4582,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4598,7 +4598,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4614,7 +4614,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4630,7 +4630,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4646,7 +4646,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4662,7 +4662,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4678,7 +4678,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4694,7 +4694,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4710,7 +4710,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4726,7 +4726,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4742,7 +4742,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4758,7 +4758,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4774,7 +4774,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4790,7 +4790,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4806,7 +4806,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4822,7 +4822,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4838,7 +4838,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4854,7 +4854,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4870,7 +4870,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4886,7 +4886,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4902,7 +4902,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4918,7 +4918,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4934,7 +4934,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4950,7 +4950,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4966,7 +4966,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4982,7 +4982,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -4998,7 +4998,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5014,7 +5014,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5030,7 +5030,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5046,7 +5046,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5062,7 +5062,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5078,7 +5078,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5094,7 +5094,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5110,7 +5110,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5126,7 +5126,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5142,7 +5142,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5158,7 +5158,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5174,7 +5174,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5190,7 +5190,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5206,7 +5206,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5222,7 +5222,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5241,7 +5241,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5257,7 +5257,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5273,7 +5273,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5289,7 +5289,7 @@ export const Stock = [
     "PADRON": "HERRAJES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5305,7 +5305,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5321,7 +5321,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5337,7 +5337,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5353,7 +5353,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5369,7 +5369,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5385,7 +5385,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5401,7 +5401,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5417,7 +5417,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5433,7 +5433,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5449,7 +5449,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5465,7 +5465,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5481,7 +5481,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5497,7 +5497,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5513,7 +5513,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5529,7 +5529,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5545,7 +5545,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5561,7 +5561,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5577,7 +5577,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5593,7 +5593,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5609,7 +5609,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5625,7 +5625,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5641,7 +5641,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5657,7 +5657,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5673,7 +5673,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5689,7 +5689,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5705,7 +5705,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5721,7 +5721,7 @@ export const Stock = [
     "PADRON": "PINTURAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5737,7 +5737,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5753,7 +5753,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5769,7 +5769,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5785,7 +5785,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5801,7 +5801,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5817,7 +5817,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5833,7 +5833,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5849,7 +5849,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5865,7 +5865,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5881,7 +5881,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5897,7 +5897,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5913,7 +5913,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5929,7 +5929,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5945,7 +5945,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5961,7 +5961,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5977,7 +5977,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -5993,7 +5993,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6009,7 +6009,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6025,7 +6025,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6041,7 +6041,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6057,7 +6057,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6073,7 +6073,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6089,7 +6089,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6105,7 +6105,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6121,7 +6121,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6137,7 +6137,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6153,7 +6153,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6169,7 +6169,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6185,7 +6185,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6201,7 +6201,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6217,7 +6217,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6233,7 +6233,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6249,7 +6249,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6265,7 +6265,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6281,7 +6281,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6297,7 +6297,7 @@ export const Stock = [
     "PADRON": "ADHESIVOS/COLAS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6316,7 +6316,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6337,7 +6337,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6358,7 +6358,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6379,7 +6379,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6400,7 +6400,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6421,7 +6421,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6441,7 +6441,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6461,7 +6461,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6480,7 +6480,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6496,7 +6496,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6512,7 +6512,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6528,7 +6528,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6544,7 +6544,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6560,7 +6560,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6576,7 +6576,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6592,7 +6592,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6608,7 +6608,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6624,7 +6624,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6640,7 +6640,7 @@ export const Stock = [
     "PADRON": "FERRETERIA",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6656,7 +6656,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6672,7 +6672,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6688,7 +6688,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6704,7 +6704,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6720,7 +6720,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6736,7 +6736,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6752,7 +6752,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6768,7 +6768,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6784,7 +6784,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6800,7 +6800,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6816,7 +6816,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6832,7 +6832,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6848,7 +6848,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6864,7 +6864,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6880,7 +6880,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6896,7 +6896,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6912,7 +6912,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6928,7 +6928,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6944,7 +6944,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6960,7 +6960,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6976,7 +6976,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -6992,7 +6992,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7008,7 +7008,7 @@ export const Stock = [
     "PADRON": "PRODUCTOS EXCLUSIVOS",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7024,7 +7024,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7040,7 +7040,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7056,7 +7056,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7072,7 +7072,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7088,7 +7088,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7104,7 +7104,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7120,7 +7120,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7136,7 +7136,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7152,7 +7152,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7168,7 +7168,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7184,7 +7184,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7200,7 +7200,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7216,7 +7216,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7232,7 +7232,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7248,7 +7248,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7264,7 +7264,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7280,7 +7280,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7296,7 +7296,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7312,7 +7312,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7328,7 +7328,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7344,7 +7344,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7360,7 +7360,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
@@ -7376,7 +7376,7 @@ export const Stock = [
     "PADRON": "AISLANTES",
     "IMAGEN": "https://via.placeholder.com/300",
     "OBSERVACIONES": ".",
-    "FECHA": "2021-11-22T03:00:00.000Z",
+    "FECHA": "2021-11-22",
     "QR": {
       "valueType": "IMAGE"
     }
