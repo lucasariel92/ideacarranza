@@ -6,6 +6,9 @@ import { ThemeProvider } from "@mui/system";
 import { createTheme } from "@mui/material";
 import { red } from "@mui/material/colors";
 import { CartView } from "./components/CartView/CartView";
+import { CartProvider } from "./components/CartContext/CartContext";
+
+
 
 
 
@@ -17,13 +20,13 @@ function App() {
       primary: red
     }
   })
-  
-  return (
-   
-    
-      <BrowserRouter>
 
-        <ThemeProvider theme={theme}>
+
+
+  return (
+    <CartProvider>
+      <ThemeProvider theme={theme}>
+      <BrowserRouter>
           <NavBar/>
 
           <Routes>
@@ -33,11 +36,11 @@ function App() {
               <Route path ="/detail" element = { <ItemDetailContainer /> } />
               <Route path="/cart" element= {<CartView/>}/>
           </Routes>      
+        </BrowserRouter>  
+    </ThemeProvider>
 
-          </ThemeProvider>
-
-      </BrowserRouter>
-      
+    </CartProvider>
+    
       
     
   )

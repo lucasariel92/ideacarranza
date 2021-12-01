@@ -13,8 +13,8 @@ export const ItemDetailContainer = () => {
         setLoading(true)
         askItem()
             .then (response => {
-                setItem ( response.find (prod => prod.COD === itemCOD) )
-                console.log(item)
+                setItem ( response.find (products => products.COD === itemCOD) )
+                
                 
                 
             })

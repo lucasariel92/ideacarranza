@@ -15,7 +15,7 @@ export default function NavBar() {
          <ul>
              <li><Link to ="/">HOME</Link></li>
              <li><Link to ="/detail">JARDIN</Link></li>
-             <li><Link to ="/cart">OBRA</Link></li>
+             <li><Link to ="/products/MACHIMBRE">MACHIMBRE</Link></li>
              <li>ASP</li>
              <li>NOSOTROS</li>
          </ul>

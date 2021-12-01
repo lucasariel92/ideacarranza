@@ -5,7 +5,7 @@ import "./Item.scss"
 
 export const Item = ({products}) => {
     return(
-        <Grid item xs={12} sm={4} className="item">
+        <Grid item xs={12} sm={3} className="item">
             
                 <Card variant="outlined" className="card">
                   <img src="https://via.placeholder.com/300" width="300px" alt={products.ITEM}/>

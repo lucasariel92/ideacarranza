@@ -1,13 +1,17 @@
-import { Button, Link } from '@mui/material'
-import React, { useState } from 'react'
+import { Button} from '@mui/material'
+import React, { useContext, useState } from 'react'
 import { useNavigate } from 'react-router'
+import { Link } from 'react-router-dom'
+import { CartContext } from '../CartContext/CartContext'
 import {ItemCount} from "../ItemListContainer/ItemCount"
 
 
-export const DetailContainer = ({ITEM, IMAGEN, PRECIO, UNIDAD_DE_MEDIDA}) => {
+export const DetailContainer = ({ITEM, IMAGEN, PRECIO, UNIDAD_DE_MEDIDA, COD}) => {
+    
+    const {addToCart, isInCart} = useContext(CartContext)
     
     const[quant, setQuant] = useState(0)
-    const[add, setAdd] = useState(false)
+    
 
     const navigate = useNavigate()
 
@@ -15,15 +19,16 @@ export const DetailContainer = ({ITEM, IMAGEN, PRECIO, UNIDAD_DE_MEDIDA}) => {
         navigate (`/`)
     }
     
-    const addToCart = () =>{
-        if (quant >0 ){
-        console.log("item agregado", {
+    const handleAddToCart = () =>{
+        if (quant > 0 ){
+        addToCart({
+            COD,
             ITEM,
             PRECIO,
             UNIDAD_DE_MEDIDA,
             quant
         })
-        setAdd(true)
+        
     }
     }
 
@@ -35,13 +40,13 @@ export const DetailContainer = ({ITEM, IMAGEN, PRECIO, UNIDAD_DE_MEDIDA}) => {
             <p>${PRECIO} x {UNIDAD_DE_MEDIDA}</p>
             <Button variant="contained" onClick={handleBack}>Volver</Button>
             {
-                !add
+                !isInCart(COD)
                 ?   <ItemCount 
                         initial={0} 
                         maxStock={20} 
                         quant={quant} 
                         setQuant={setQuant}
-                        onAdd={addToCart}
+                        onAdd={handleAddToCart}
                     />
                 :  <Link to = "/cart">
                     <Button variant="contained">Terminar mi compra</Button>
