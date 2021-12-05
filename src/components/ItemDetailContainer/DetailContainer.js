@@ -26,7 +26,8 @@ export const DetailContainer = ({ITEM, IMAGEN, PRECIO, UNIDAD_DE_MEDIDA, COD}) =
             ITEM,
             PRECIO,
             UNIDAD_DE_MEDIDA,
-            quant
+            quant,
+            IMAGEN
         })
         
     }
