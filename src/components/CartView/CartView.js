@@ -30,7 +30,7 @@ const {cart, removeFromCart, emptyCart, totalBought} = useContext(CartContext)
                     <div>
                         <Button variant="contained" onClick={emptyCart}>Vaciar</Button>
                         <Button variant="contained">Terminar mi compra</Button>
-                        <p>Total comprado: {totalBought}</p>
+                        <p>Total comprado: {totalBought()}</p>
                     </div>
                 </div>
         

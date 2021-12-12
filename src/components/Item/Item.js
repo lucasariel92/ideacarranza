@@ -8,11 +8,11 @@ export const Item = ({products}) => {
         <Grid item xs={12} sm={3} className="item">
             
                 <Card variant="outlined" className="card">
-                  <img src="https://via.placeholder.com/300" width="300px" alt={products.ITEM}/>
+                  <img src="https://via.placeholder.com/300" width="300px" alt={products.item}/>
                   <div className="cardText">
-                    <p>{products.ITEM}</p>
-                    <p>${products.PRECIO} x {products.UNIDAD_DE_MEDIDA}</p>
-                    <Link to={`/detail/${products.COD}`}>
+                    <p>{products.item}</p>
+                    <p>${products.precio} x UN</p>
+                    <Link to={`/detail/${products.id}`}>
                       <Button variant="contained"> Detalle </Button>
                     </Link>
                     

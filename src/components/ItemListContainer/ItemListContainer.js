@@ -3,7 +3,10 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import { ItemList } from "../ItemList/ItemList";
-import { askData } from "./helpers/askData";
+import { collection, getDocs } from "firebase/firestore/lite";
+import { db } from "../Firebase/config";
+
+
 
 
 
@@ -16,26 +19,29 @@ export const ItemListContainer = () =>{
     const [loading, setLoading] = useState(false)
     const [products, setProducts] = useState([])
     
+    
+    
     const {catId} = useParams()
+
 
     useEffect( ()=>{
 
         setLoading(true)
-        askData()
-            .then( (response) => {
-                if (!catId){
-                setProducts(response)
-                } else{
-                    setProducts(response.filter (products => products.PADRON === catId))
-                }
-            })
-            .catch( (error) => {
-                console.log(error)
-            })
-            .finally( () => {
-                setLoading(false)
-                
-            })
+
+        // 1- armar referencia
+        const productsRef = collection(db, 'products')
+        // 2- GET a la referencia
+        getDocs(productsRef)
+        .then((response) =>{
+            const items = response.docs.map((doc) => ({
+                id: doc.id,
+                ...doc.data()
+            }))
+            setProducts(items)
+        })
+        .finally(()=>{
+            setLoading(false)
+        })
     }, [catId])
     
 
